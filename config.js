@@ -60,7 +60,7 @@ global.ppulsa2 = '083150688326'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = 6283150688326'
+global.nomorbot = '6283150688326'
 global.nomorown = '6283150688326'
 global.namebot = 'RizkyXD'
 global.nameown = 'RizkyXD'
